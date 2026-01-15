@@ -1,11 +1,16 @@
+# Data2Decisions – Business Insights from Product Sales Analytics
+
+<img width="1536" height="1024" alt="global_product_sales_insights" src="https://github.com/user-attachments/assets/40c16e10-3438-4fb4-8bf4-1b85bbdd6adc" />
+
+
+**Application Demo link:** <br /> 
+Shiny io : https://nishapardeshi.shinyapps.io/salesanalysis/ <br /> 
+
 # Overview
 
 Product Sales Analysis is an interactive analytics application built using Shiny R to explore, analyze, and visualize sales data for a company selling multiple equipment products across different countries.
 
 The project focuses on transforming raw sales data into actionable business insights, helping stakeholders understand sales performance, regional trends, and product-level behavior through intuitive dashboards and statistical analysis.
-
-**Application Demo link:** <br /> 
-Shiny io : https://nishapardeshi.shinyapps.io/salesanalysis/ <br /> 
 
 # Objective
 
