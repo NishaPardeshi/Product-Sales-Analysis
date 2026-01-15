@@ -9,44 +9,45 @@ Shiny io : https://nishapardeshi.shinyapps.io/salesanalysis/ <br />
 
 # Objective
 
-## The primary goal of this analysis is to:
-Identify sales patterns and trends across countries and products
-Compare product performance across regions
-Support data-driven business decisions using statistical insights
-Present complex analytics in a simple, interactive visual format
+## The primary goal of this analysis is to: <br /> 
+i. Identify sales patterns and trends across countries and products <br /> 
+ii. Compare product performance across regions <br /> 
+iii. Support data-driven business decisions using statistical insights <br /> 
+iv. Present complex analytics in a simple, interactive visual format <br /> 
 
-# Tech Stack
+# Tech Stack <br /> 
 
-R
-Shiny R (Interactive Web Application)
-ggplot2 (Data Visualization)
-dplyr / tidyverse (Data Manipulation)
-Statistical Analysis
+R <br /> 
+Shiny R (Interactive Web Application) <br /> 
+ggplot2 (Data Visualization) <br /> 
+dplyr / tidyverse (Data Manipulation) <br /> 
+Statistical Analysis <br /> 
 
-📌 Key Features
-🌍 Country-wise Sales Analysis
-Analyze how sales vary across different countries and regions.
+📌 Key Features<br /> 
 
-📦 Product-wise Performance
-Compare equipment sales to identify top-performing and underperforming products.
+🌍 Country-wise Sales Analysis <br /> 
+Analyze how sales vary across different countries and regions.<br /> 
 
-📈 Interactive Visualizations
-Dynamic charts and plots that update based on user selections.
+📦 Product-wise Performance <br /> 
+Compare equipment sales to identify top-performing and underperforming products.<br /> 
 
-📊 Statistical Insights
-Summary statistics to understand sales distribution, trends, and variability.
+📈 Interactive Visualizations<br /> 
+Dynamic charts and plots that update based on user selections.<br /> 
 
-🧭 User-Friendly Dashboard
-Easy-to-navigate Shiny interface for both technical and non-technical users.
+📊 Statistical Insights<br /> 
+Summary statistics to understand sales distribution, trends, and variability.<br /> 
 
-# Types of Analysis
+🧭 User-Friendly Dashboard<br /> 
+Easy-to-navigate Shiny interface for both technical and non-technical users.<br /> 
 
-Sales distribution across countries
-Product-level sales comparison
-Trend analysis using visual exploration
-Descriptive statistics for business interpretation
+# Types of Analysis<br /> 
+
+Sales distribution across countries<br /> 
+Product-level sales comparison<br /> 
+Trend analysis using visual exploration<br /> 
+Descriptive statistics for business interpretation<br /> 
 
 # Business Impact
 
-Impact: Enabling stakeholders to explore sales data interactively, uncover regional and product-level insights, and make informed business decisions backed by data.
+**Impact:** Enabling stakeholders to explore sales data interactively, uncover regional and product-level insights, and make informed business decisions backed by data.
 
